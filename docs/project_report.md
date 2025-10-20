@@ -1,0 +1,19 @@
+# Project Report: AI-Based IDS for IoT CCTV Access Monitoring
+
+## Abstract
+Provide a brief summary: objective, approach (rule-based + ML), dataset and results.
+
+## Introduction
+Explain IoT CCTV security issues and motivation.
+
+## System Design
+Describe the monitor agent, logging, notification, and optional AI pipeline.
+
+## Implementation
+List tools, scripts, and how to run.
+
+## Results
+Include screenshots of Telegram alerts and sample anomaly detection logs.
+
+## Conclusion
+Summarize improvements and future work.
