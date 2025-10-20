@@ -1,5 +1,0 @@
-scapy
-requests
-pandas
-scikit-learn
-joblib
